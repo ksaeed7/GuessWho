@@ -46,6 +46,6 @@ node index.js
 - Enter your first and last name, along with the access code provided by your teacher.
 - Participate in the game by matching names to faces.
 
-# First time creating my own client server interaction using JavaScript.
+## First time creating my own client server interaction using JavaScript.
 
 - Hosted on an AWS EC2 Instance.
